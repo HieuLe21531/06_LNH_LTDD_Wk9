@@ -1,1 +1,1 @@
-# 06_LNH_LTDD_Wk9
+Currently, Redux not working
